@@ -17,7 +17,7 @@ bool lastParity = 0;
 
 // Cấu trúc gói tin
 struct Payload {
-  bool parity;        // Bit kiểm tra Parity
+  uint8_t parity;        // Bit kiểm tra Parity
   uint16_t counter;   // Bộ đếm gói tin
   byte mang[2];       // Mảng có 2 phần tử: [0] - Servo, [1] - Nút nhấn
 };
@@ -35,7 +35,7 @@ void setup() {
 
   // Mở cả hai pipe để lắng nghe
   radio.openReadingPipe(2, pipe1);
-  radio.openReadingPipe(4, pipe2);
+  radio.openReadingPipe(3, pipe2);
   radio.setPALevel(RF24_PA_MAX);
   radio.setChannel(80);
   radio.setDataRate(RF24_250KBPS);
@@ -59,7 +59,7 @@ void loop() {
     if (isValidPacket(payload)) {
       updateLastPacket(payload);
       // Xử lý gói tin theo pipe
-      if (pipeNo == 4) {
+      if (pipeNo == 3) {
         Serial.println("Dữ liệu từ Pipe 2 (Repeater)");
       } else if (pipeNo == 2) {
         Serial.println("Dữ liệu từ Pipe 1 (TX trực tiếp)");
