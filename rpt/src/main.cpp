@@ -4,7 +4,7 @@
 #include "nRF24L01.h"
 #include "RF24.h"
 //----------------------------------
-RF24 radio(5, 4);
+RF24 radio(9, 10);
 //----------------------------------
 const uint64_t pipe1 = 0xF0F0F0F0A1;
 const uint64_t pipe2 = 0xF0F0F0F0A2;

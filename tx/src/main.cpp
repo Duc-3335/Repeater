@@ -11,7 +11,7 @@ bool parity = 0;
 RF24 radio(9, 10);  // CE, CSN
 const uint64_t pipe1 = 0xF0F0F0F0A1;
 
-int nutnhan = 6;
+int nutnhan = 5;
 boolean gtnutnhan = 0;
 int bientro = A0;
 int gtbientro;
