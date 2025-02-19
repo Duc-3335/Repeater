@@ -36,6 +36,7 @@ void setup() {
   // Mở cả hai pipe để lắng nghe
   radio.openReadingPipe(2, pipe1);//1034834473121ULL
   radio.openReadingPipe(3, pipe2);//1034834473122ULL
+
   radio.setPALevel(RF24_PA_MAX);
   radio.setChannel(80);
   radio.setDataRate(RF24_250KBPS);  radio.startListening();  // Bắt đầu lắng nghe
