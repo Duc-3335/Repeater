@@ -2,8 +2,8 @@
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
-#include <Arduino_FreeRTOS.h>
-#include <task.h>
+// #include <Arduino_FreeRTOS.h>
+// #include <task.h>
 
 uint16_t counter = 0;
 uint8_t parity = 0;
@@ -21,8 +21,8 @@ struct Payload {
 Payload payload;
 
 void writeData();
-void transmit_1(void *parameter);
-void transmit_2(void *parameter);
+// void transmit_1(void *parameter);
+// void transmit_2(void *parameter);
 
 void setup() {
   Serial.begin(9600);
@@ -31,8 +31,7 @@ void setup() {
     Serial.println("Module không khởi động được...!!");
     while (1) {}
   }
-  radio.openWritingPipe(pipe1);//1034834473121ULL
-  radio.openWritingPipe(pipe2);
+
   radio.setPALevel(RF24_PA_MAX);
   radio.setChannel(80);
   radio.setDataRate(RF24_250KBPS);
@@ -44,30 +43,34 @@ void setup() {
 
   pinMode(nutnhan, INPUT_PULLUP);
 
-  xTaskCreate(transmit_1, "Transmit 1", 10000, NULL, 1, NULL);
-  xTaskCreate(transmit_2, "Transmit 2", 10000, NULL, 1, NULL);
+  // xTaskCreate(transmit_1, "Transmit 1", 10000, NULL, 1, NULL);
+  // xTaskCreate(transmit_2, "Transmit 2", 10000, NULL, 1, NULL);
 }
 
 void loop() {
-
-  
+  radio.openWritingPipe(pipe1);
+  writeData();
+  delay(15);
+  radio.openWritingPipe(pipe2);
+  writeData();
+  delay(15);
 }
 
-void transmit_1(void *parameter) {
-  while (radio.available()) {
-    writeData();
-    vTaskDelay(15 / portTICK_PERIOD_MS);
-  }
+// void transmit_1(void *parameter) {
+//   while (1) {
+    
+//     vTaskDelay(15 / portTICK_PERIOD_MS);
+//   }
   
-}
+// }
 
-void transmit_2(void *parameter) {
-  while (radio.available()) {
-    writeData();
-    vTaskDelay(15 / portTICK_PERIOD_MS);
-  }
+// void transmit_2(void *parameter) {
+//   while (radio.available()) {
+//     writeData();
+//     vTaskDelay(15 / portTICK_PERIOD_MS);
+//   }
   
-}
+// }
 void writeData() {
   payload.parity = parity;
   payload.counter = counter;

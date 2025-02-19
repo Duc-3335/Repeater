@@ -1,0 +1,203 @@
+Chưa kết nối được với RX...!!
+CHỜ KẾT NỐI.......
+1
+Counter: 0, Parity: 0, Data: 1, Send: OK
+0
+Counter: 1, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 2, Parity: 0, Data: 1, Send: OK
+0
+Counter: 3, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 4, Parity: 0, Data: 1, Send: OK
+0
+Counter: 5, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 6, Parity: 0, Data: 1, Send: OK
+0
+Counter: 7, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 8, Parity: 0, Data: 1, Send: OK
+0
+Counter: 9, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 10, Parity: 0, Data: 1, Send: OK
+0
+Counter: 11, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 12, Parity: 0, Data: 1, Send: OK
+0
+Counter: 13, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 14, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 15, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 16, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 17, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 18, Parity: 0, Data: 1, Send: OK
+0
+Counter: 19, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 20, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 21, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 22, Parity: 0, Data: 1, Send: OK
+0
+Counter: 23, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 24, Parity: 0, Data: 1, Send: OK
+0
+Counter: 25, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 26, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 27, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 28, Parity: 0, Data: 1, Send: OK
+0
+Counter: 29, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 30, Parity: 0, Data: 1, Send: OK
+0
+Counter: 31, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 32, Parity: 0, Data: 1, Send: OK
+0
+Counter: 33, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 34, Parity: 0, Data: 1, Send: OK
+0
+Counter: 35, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 36, Parity: 0, Data: 1, Send: OK
+0
+Counter: 37, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 38, Parity: 0, Data: 1, Send: OK
+0
+Counter: 39, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 40, Parity: 0, Data: 1, Send: OK
+0
+Counter: 41, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 42, Parity: 0, Data: 1, Send: OK
+0
+Counter: 43, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 44, Parity: 0, Data: 1, Send: OK
+0
+Counter: 45, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 46, Parity: 0, Data: 1, Send: OK
+0
+Counter: 47, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 48, Parity: 0, Data: 1, Send: OK
+0
+Counter: 49, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 50, Parity: 0, Data: 1, Send: OK
+0
+Counter: 51, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 52, Parity: 0, Data: 1, Send: OK
+0
+Counter: 53, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 54, Parity: 0, Data: 1, Send: OK
+0
+Counter: 55, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 56, Parity: 0, Data: 1, Send: OK
+0
+Counter: 57, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 58, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 59, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 60, Parity: 0, Data: 1, Send: OK
+0
+Counter: 61, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 62, Parity: 0, Data: 1, Send: OK
+0
+Counter: 63, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 64, Parity: 0, Data: 1, Send: OK
+0
+Counter: 65, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 66, Parity: 0, Data: 1, Send: OK
+0
+Counter: 67, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 68, Parity: 0, Data: 1, Send: OK
+0
+Counter: 69, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 70, Parity: 0, Data: 1, Send: OK
+0
+Counter: 71, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 72, Parity: 0, Data: 1, Send: OK
+0
+Counter: 73, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 74, Parity: 0, Data: 1, Send: OK
+0
+Counter: 75, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 76, Parity: 0, Data: 1, Send: OK
+0
+Counter: 77, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 78, Parity: 0, Data: 1, Send: OK
+0
+Counter: 79, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 80, Parity: 0, Data: 1, Send: OK
+0
+Counter: 81, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 82, Parity: 0, Data: 1, Send: OK
+0
+Counter: 83, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 84, Parity: 0, Data: 1, Send: OK
+0
+Counter: 85, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 86, Parity: 0, Data: 1, Send: OK
+0
+Counter: 87, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 88, Parity: 0, Data: 1, Send: OK
+0
+Counter: 89, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 90, Parity: 0, Data: 1, Send: OK
+0
+Counter: 91, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 92, Parity: 0, Data: 1, Send: OK
+0
+Counter: 93, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 94, Parity: 0, Data: 1, Send: OK
+0
+Counter: 95, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 96, Parity: 0, Data: 1, Send: OK
+0
+Counter: 97, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 98, Parity: 0, Data: 1, Send: OK
+0
+Counter: 99, Parity: 0, Data: 1, Send: FAILED
+1

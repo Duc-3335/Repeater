@@ -1,0 +1,905 @@
+Counter: 14256, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14257, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14258, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14259, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14260, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14261, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14262, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14263, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14264, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14265, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14266, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14267, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14268, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14269, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14270, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 14271, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 14272, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 14273, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 14274, Parity: 0, Data: 1, Send: FAILED
+0
+Counter: 14275, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14276, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14277, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14278, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14279, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14280, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14281, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14282, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14283, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14284, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14285, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14286, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14287, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14288, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14289, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14290, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14291, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14292, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14293, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14294, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14295, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14296, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14297, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14298, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14299, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14300, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14301, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14302, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14303, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14304, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14305, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14306, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14307, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14308, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14309, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14310, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14311, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14312, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14313, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14314, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14315, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14316, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14317, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14318, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14319, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14320, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14321, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14322, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14323, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14324, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14325, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14326, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14327, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14328, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14329, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14330, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14331, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14332, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14333, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14334, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14335, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14336, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14337, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14338, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14339, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14340, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14341, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14342, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14343, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14344, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14345, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14346, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14347, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14348, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14349, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14350, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14351, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14352, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14353, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14354, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14355, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14356, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14357, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14358, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14359, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14360, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14361, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14362, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14363, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14364, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14365, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14366, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14367, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14368, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14369, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14370, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14371, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14372, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14373, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14374, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14375, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14376, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14377, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14378, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14379, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14380, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14381, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14382, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14383, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14384, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14385, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14386, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14387, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14388, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14389, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14390, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14391, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14392, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14393, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14394, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14395, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14396, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14397, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14398, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14399, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14400, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14401, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14402, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14403, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14404, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14405, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14406, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14407, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14408, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14409, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14410, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14411, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14412, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14413, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14414, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14415, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14416, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14417, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14418, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14419, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14420, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14421, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14422, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14423, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14424, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14425, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14426, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14427, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14428, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14429, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14430, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14431, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14432, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14433, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14434, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14435, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14436, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14437, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14438, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14439, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14440, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14441, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14442, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14443, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14444, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14445, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14446, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14447, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14448, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14449, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14450, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14451, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14452, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14453, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14454, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14455, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14456, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14457, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14458, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14459, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14460, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14461, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14462, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14463, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14464, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14465, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14466, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14467, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14468, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14469, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14470, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14471, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14472, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14473, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14474, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14475, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14476, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14477, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14478, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14479, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14480, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14481, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14482, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14483, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14484, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14485, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14486, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14487, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14488, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14489, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14490, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14491, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14492, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14493, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14494, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14495, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14496, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14497, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14498, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14499, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14500, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14501, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14502, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14503, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14504, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14505, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14506, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14507, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14508, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14509, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14510, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14511, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14512, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14513, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14514, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14515, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14516, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14517, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14518, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14519, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14520, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14521, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14522, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14523, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14524, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14525, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14526, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14527, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14528, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14529, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14530, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14531, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14532, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14533, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14534, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14535, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14536, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14537, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14538, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14539, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14540, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14541, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14542, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14543, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14544, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14545, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14546, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14547, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14548, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14549, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14550, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14551, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14552, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14553, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14554, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14555, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14556, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14557, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14558, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14559, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14560, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14561, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14562, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14563, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14564, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14565, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14566, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14567, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14568, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14569, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14570, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14571, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14572, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14573, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14574, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14575, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14576, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14577, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14578, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14579, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14580, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14581, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14582, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14583, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14584, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14585, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14586, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14587, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14588, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14589, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14590, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14591, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14592, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14593, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14594, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14595, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14596, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14597, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14598, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14599, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14600, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14601, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14602, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14603, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14604, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14605, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14606, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14607, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14608, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14609, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14610, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14611, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14612, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14613, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14614, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14615, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14616, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14617, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14618, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14619, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14620, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14621, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14622, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14623, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14624, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14625, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14626, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14627, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14628, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14629, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14630, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14631, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14632, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14633, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14634, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14635, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14636, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14637, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14638, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14639, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14640, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14641, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14642, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14643, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14644, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14645, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14646, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14647, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14648, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14649, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14650, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14651, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14652, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14653, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14654, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14655, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14656, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14657, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14658, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14659, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14660, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14661, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14662, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14663, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14664, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14665, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14666, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14667, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14668, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14669, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14670, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14671, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14672, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14673, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14674, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14675, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14676, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14677, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14678, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14679, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14680, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14681, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14682, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14683, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14684, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14685, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14686, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14687, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14688, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14689, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14690, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14691, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14692, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14693, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14694, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14695, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14696, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14697, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14698, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14699, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14700, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14701, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14702, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14703, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14704, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14705, Parity: 0, Data: 1, Send: OK
+1
+Counter: 14706, Parity: 0, Data: 1, Send: OK
+0
+Counter: 14707, Parity: 0, Data: 1, Send: FAILED
+1
+Counter: 14708, P
