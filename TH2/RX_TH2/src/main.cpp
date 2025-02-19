@@ -5,22 +5,24 @@
 
 // Cấu hình RF24
 RF24 radio(9, 10);  // CE, CSN
-const uint64_t pipe1 = 0xF0F0F0F0A1;  // Địa chỉ pipe1 (từ TX trực tiếp)
-const uint64_t pipe2 = 0xF0F0F0F0A2;  // Địa chỉ pipe2 (từ Repeater)
+const uint64_t pipe1 = 0xF0F0F0F0A2;  // Địa chỉ pipe1 (từ TX trực tiếp)
+const uint64_t pipe2 = 0xF0F0F0F0A3;  // Địa chỉ pipe2 (từ Repeater)
 
 // Điều khiển LED và Servo
 int ledPin = 6;      // LED trạng thái
 
 // Biến kiểm tra trùng lặp gói tin
 uint16_t lastCounter = 0;
-bool lastParity = 0;
+uint8_t lastParity = 0;
 
 // Cấu trúc gói tin
 struct Payload {
   uint8_t parity;        // Bit kiểm tra Parity
   uint16_t counter;   // Bộ đếm gói tin
-  byte mang[2];       // Mảng có 2 phần tử: [0] - Servo, [1] - Nút nhấn
+  byte data;       
 };
+Payload payload;
+
 bool isValidPacket(Payload& payload);
 void updateLastPacket(Payload& payload);
 
@@ -34,11 +36,12 @@ void setup() {
   }
 
   // Mở cả hai pipe để lắng nghe
-  radio.openReadingPipe(2, pipe1);//1034834473121ULL
-  radio.openReadingPipe(3, pipe2);//1034834473122ULL
+  radio.openReadingPipe(1, pipe1);//1034834473121ULL
+  radio.openReadingPipe(2, pipe2);//1034834473122ULL
   radio.setPALevel(RF24_PA_MAX);
   radio.setChannel(80);
-  radio.setDataRate(RF24_250KBPS);  radio.startListening();  // Bắt đầu lắng nghe
+  radio.setDataRate(RF24_250KBPS);
+  radio.startListening();  // Bắt đầu lắng nghe
 
   // Khởi tạo LED và Servo
   pinMode(ledPin, OUTPUT);
@@ -49,7 +52,7 @@ void setup() {
 
 void loop() {
   delay(20);
-  Payload payload;
+
   uint8_t pipeNo;
   if (radio.available(&pipeNo)) { // Lấy thông tin pipe
 
@@ -58,13 +61,13 @@ void loop() {
     if (isValidPacket(payload)) {
       updateLastPacket(payload);
       // Xử lý gói tin theo pipe
-      if (pipeNo == 3) {
+      if (pipeNo == 2) {
         Serial.println("Dữ liệu từ Pipe 2 (Repeater)");
-      } else if (pipeNo == 2) {
+      } else if (pipeNo == 1) {
         Serial.println("Dữ liệu từ Pipe 1 (TX trực tiếp)");
       }
       // Điều khiển LED
-      if (payload.mang[1] == 1) {
+      if (payload.data != 0) {
         digitalWrite(ledPin, HIGH);  // Bật LED
       } else {
         digitalWrite(ledPin, LOW);   // Tắt LED

@@ -2,7 +2,6 @@
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
-
 unsigned long lastDebounceTime = 0;
 const unsigned long debounceDelay = 50;
 uint16_t counter = 0;
@@ -18,7 +17,7 @@ int gtbientro;
 int gtbiendoi;
 
 struct Payload {
-  bool parity;
+  uint8_t parity;
   uint16_t counter;
   byte mang[2];  //Mảng có 2 phần tử
 };
@@ -30,8 +29,8 @@ void setup() {
     Serial.println("Module không khởi động được...!!");
     while (1) {}
   }
-  radio.openWritingPipe(pipe1);
-  radio.setPALevel(RF24_PA_MAX);  //Cài bộ khuyết địa công suất ở mức MIN
+  radio.openWritingPipe(pipe1);//1034834473121ULL
+  radio.setPALevel(RF24_PA_MAX);
   radio.setChannel(80);
   radio.setDataRate(RF24_250KBPS);
   radio.stopListening();  //Cài đặt module là TX

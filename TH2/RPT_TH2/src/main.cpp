@@ -6,16 +6,16 @@
 #include <task.h>
 RF24 radio(9, 10);
 
-const uint64_t pipe1 = 0xF0F0F0F0A1;
-const uint64_t pipe2 = 0xF0F0F0F0A2;
+const uint64_t pipe1 = 0xF0F0F0F0A1;//tx
+const uint64_t pipe2 = 0xF0F0F0F0A3;//rx
 
 uint16_t lastCounter = 0;
-bool lastParity = 0;
+uint8_t lastParity = 0;
 
 struct Payload {
   uint8_t parity;
   uint16_t counter;
-  byte mang[2];  //Mảng có 2 phần tử;
+  byte data;
 };
 
 Payload payload;
@@ -59,7 +59,7 @@ void receiverTask(void *pvParameters) {
     radio.read(&payload, sizeof(payload));
     Serial.print("Counter: "); Serial.print(payload.counter); Serial.print(' ');
     Serial.print("Parity: "); Serial.print(payload.parity); Serial.print(' ');
-    Serial.print(payload.mang[1]);
+    Serial.print("Data: "); Serial.println(payload.data);
     vTaskDelay(50 / portTICK_PERIOD_MS);
   }
 }

@@ -6,16 +6,16 @@
 #include <task.h>
 RF24 radio(9, 10);
 
-const uint64_t pipe1 = 0xF0F0F0F0A1;
-const uint64_t pipe2 = 0xF0F0F0F0A2;
+const uint64_t pipe1 = 0xF0F0F0F0A2;//tx
+const uint64_t pipe2 = 0xF0F0F0F0A1;//rx
 
 uint16_t lastCounter = 0;
-bool lastParity = 0;
+uint8_t lastParity = 0;
 
 struct Payload {
   uint8_t parity;
   uint16_t counter;
-  byte mang[2];  //Mảng có 2 phần tử;
+  byte data;
 };
 
 Payload payload;
@@ -42,7 +42,24 @@ void setup() {
   vTaskStartScheduler();
 }
 void loop() {
-
+  // if(radio.available()){
+  //   radio.startListening();
+  //   radio.read(&payload, sizeof(payload));
+  //   Serial.print("Counter: "); Serial.print(payload.counter); Serial.print(' ');
+  //   Serial.print("Parity: "); Serial.print(payload.parity); Serial.print(' ');
+  //   Serial.print("Data: "); Serial.println(payload.data);
+  // }
+  // delay(50);
+  // if (isValidPacket(payload)) {
+  //   updateLastPacket(payload);
+  //   radio.stopListening();
+  //   bool ok = radio.write(&payload, sizeof(payload));
+  //   Serial.print(" - ACK: ");
+  //   Serial.println(ok);
+  // } else {
+  //   Serial.println("Duplicate packet ignored");
+  // }  
+  // delay(50);
 }
 bool isValidPacket(Payload& payload) {
   return ((payload.counter > lastCounter && payload.parity == lastParity) ||
@@ -59,12 +76,12 @@ void receiverTask(void *pvParameters) {
     radio.read(&payload, sizeof(payload));
     Serial.print("Counter: "); Serial.print(payload.counter); Serial.print(' ');
     Serial.print("Parity: "); Serial.print(payload.parity); Serial.print(' ');
-    Serial.print(payload.mang[1]);
+    Serial.print("Data: "); Serial.println(payload.data);
     vTaskDelay(50 / portTICK_PERIOD_MS);
   }
 }
 void transmitterTask(void *pvParameters) {
-  while(radio.available()){
+  while(1){
     if (isValidPacket(payload)) {
       updateLastPacket(payload);
       radio.stopListening();
