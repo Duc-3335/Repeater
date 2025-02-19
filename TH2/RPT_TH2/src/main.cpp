@@ -42,6 +42,22 @@ void setup() {
   vTaskStartScheduler();
 }
 void loop() {
+  // radio.startListening();
+  // radio.read(&payload, sizeof(payload));
+  // Serial.print("Counter: "); Serial.print(payload.counter); Serial.print(' ');
+  // Serial.print("Parity: "); Serial.print(payload.parity); Serial.print(' ');
+  // Serial.print("Data: "); Serial.println(payload.data);
+  // delay(50);
+  // if (isValidPacket(payload)) {
+  //   updateLastPacket(payload);
+  //   radio.stopListening();
+  //   bool ok = radio.write(&payload, sizeof(payload));
+  //   Serial.print(" - ACK: ");
+  //   Serial.println(ok);
+  // } else {
+  //   Serial.println("Duplicate packet ignored");
+  // }  
+  // delay(50);
 
 }
 bool isValidPacket(Payload& payload) {
@@ -64,7 +80,7 @@ void receiverTask(void *pvParameters) {
   }
 }
 void transmitterTask(void *pvParameters) {
-  while(radio.available()){
+  while(1){
     if (isValidPacket(payload)) {
       updateLastPacket(payload);
       radio.stopListening();
