@@ -2,7 +2,7 @@ import serial
 import time
 
 # Cấu hình cổng Serial
-ser = serial.Serial('COM3', 9600, timeout=1)  # Thay 'COM3' bằng cổng Serial của bạn
+ser = serial.Serial('COM13', 9600, timeout=1)  # Thay 'COM3' bằng cổng Serial của bạn
 
 # Đợi một chút để cổng Serial sẵn sàng
 time.sleep(2)
